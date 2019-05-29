@@ -1,6 +1,6 @@
 
 
-function productRender(category, product) {
+const productRender =(category, product) => {
   $("#mainContent").empty();
   $("#mainContent").append(`
         <div>
@@ -31,3 +31,15 @@ $("#automotive").on("click", (e) => {
     e.preventDefault();
     productRender(autmotive, product);
 });
+
+const electronics = () => {
+    //placing electronic products
+}
+
+const outdoors = () => {
+    //placing outdoor products
+}
+
+const autmotive = () => {
+    //placing automotive products
+}
