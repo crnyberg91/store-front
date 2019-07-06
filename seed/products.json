@@ -1,0 +1,107 @@
+[
+    {
+        "product": "Samsung Galaxy S10",
+        "department": "electronics",
+        "price": 799,
+        "quantity": 10,
+        "img": "public/assets/images/Samsung-Galaxy-S10.jpg"
+    },
+    {
+        "product": "Nintendo Switch",
+        "department": "electronics",
+        "price": 299,
+        "quantity": 8,
+        "img": "public/assets/images/bundle_color_box.jpg"
+    },
+    {
+        "product": "Sony Playstation 4",
+        "department": "electronics",
+        "price": 399,
+        "quantity": 4,
+        "img": "public/assets/images/ps4.png"
+    },
+    {
+        "product": "Microsoft Xbox One",
+        "department": "electronics",
+        "price": 399,
+        "quantity": 15,
+        "img": "public/assets/images/xbone.png"
+    },
+    {
+        "product": "Nintendo Gamecube",
+        "department": "electronics",
+        "price": 1000,
+        "quantity": 2,
+        "img": "public/assets/images/GameCube.png"
+    },
+    {
+        "product": "Bataleon Evil Twin",
+        "department": "outdoors",
+        "price": 299,
+        "quantity": 6,
+        "img": "public/assets/images/evilTwin.png"
+    },
+    {
+        "product": "Bataleon Whatever",
+        "department": "outdoors",
+        "price": 599,
+        "quantity": 3,
+        "img": "public/assets/images/bataleonWhatever.png"
+    },
+    {
+        "product": "Salomon Villain",
+        "department": "outdoors",
+        "price": 499,
+        "quantity": 10,
+        "img": "public/assets/images/villain.png"
+    },
+    {
+        "product": "Capita Defenders of Awesome",
+        "department": "outdoors",
+        "price": 299,
+        "quantity": 4,
+        "img": "public/assets/images/doa.png"
+    },
+    {
+        "product": "Capita Board of Death",
+        "department": "outdoors",
+        "price": 299,
+        "quantity": 6,
+        "img": "public/assets/images/doa.png"
+    },
+    {
+        "product": "2018 Honda Civic Touring",
+        "department": "automotive",
+        "price": 35595,
+        "quantity": 30,
+        "img": "public/assets/images/civic.png"
+    },
+    {
+        "product": "2018 Chevrolet Camaro SS",
+        "department": "automotive",
+        "price": 45120,
+        "quantity": 50,
+        "img": "public/assets/images/camaro.png"
+    },
+    {
+        "product": "2019 Ford Transit-350",
+        "department": "automotive",
+        "price": 39660,
+        "quantity": 50,
+        "img": "public/assets/images/van.png"
+    },
+    {
+        "product": "2018 Toyota 86 GT",
+        "department": "automotive",
+        "price": 799,
+        "quantity": 24,
+        "img": "public/assets/86.png"
+    },
+    {
+        "product": "2018 Mazda MX-5 Miata",
+        "department": "automotive",
+        "price": 34720,
+        "quantity": 12,
+        "img": "public/assets/images/miata.png"
+    }
+]
